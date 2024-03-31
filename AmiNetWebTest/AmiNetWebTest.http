@@ -1,0 +1,6 @@
+@AmiNetWebTest_HostAddress = http://localhost:5191
+
+GET {{AmiNetWebTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

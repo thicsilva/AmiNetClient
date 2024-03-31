@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmiNet", "AmiNet\AmiNet.csproj", "{D02EE244-6AD1-4540-B55B-D93E56536864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmiNetWebTest", "AmiNetWebTest\AmiNetWebTest.csproj", "{15DAA89D-3486-49F8-8F63-D8FCDB02197E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D02EE244-6AD1-4540-B55B-D93E56536864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02EE244-6AD1-4540-B55B-D93E56536864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02EE244-6AD1-4540-B55B-D93E56536864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02EE244-6AD1-4540-B55B-D93E56536864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DAA89D-3486-49F8-8F63-D8FCDB02197E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DAA89D-3486-49F8-8F63-D8FCDB02197E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DAA89D-3486-49F8-8F63-D8FCDB02197E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DAA89D-3486-49F8-8F63-D8FCDB02197E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
